@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">KostHub</string>
+
+    <!--onboarding-->
+    <string name="welcome_message">Selamat Datang di KostHub!</string>
+    <string name="onboarding_message">Silakan login atau daftarkan diri Anda sebelum mulai gunakan aplikasi.</string>
+
+    <string name="title_login">Login</string>
+    <string name="title_regist">Daftar</string>
+    <string name="title_email">Email</string>
+
+    <!--login-->
+    <string name="login_message">Silakan login terlebih dahulu</string>
+    <string name="hint_input_email">Masukkan email</string>
+    <string name="hint_input_password">Masukkan password</string>
+    <string name="title_password">Password</string>
+    <string name="login_google">Login dengan Google</string>
+
+    <!--regiter-->
+    <string name="regist_message">Silakan isi dan daftar</string>
+    <string name="title_name">Nama</string>
+    <string name="hint_input_name">Masukkan nama</string>
+    <string name="title_confirm_password">Konfirmasi password</string>
+    <string name="hint_input_confirm_password">Masukkan password sekali lagi</string>
+    <string name="loading">Loading...</string>
+
+    <!--bottom nav-->
+    <string name="title_home">Home</string>
+    <string name="title_favorite">Favorit</string>
+    <string name="title_chat">Pesan</string>
+    <string name="title_profile">Profil</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
